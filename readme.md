@@ -3,8 +3,8 @@ Hi!! Welcome my page
 
  Iam Nithish kumar here
 
- For kmow I know about
- 
+ For now I know about
+
  1.Github
 
  1.javaScript
